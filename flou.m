@@ -10,7 +10,7 @@ H = @(k,u,v) exp(-k*(u^2+v^2));
 % Construction palette
 gris=([0:255]/255)'*[1 1 1];
 
-% Affichage image en niveaux de gris
+% Affichage de l image en niveaux de gris
 % figure(1);
 % image(im);
 % colormap(gris);
